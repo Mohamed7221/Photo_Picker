@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo Picker</string>
+    <string name="title_activity_picture_chooser">PictureChooserActivity</string>
+    <string name="title_activity_image_effect">ImageEffectActivity</string>
+</resources>
